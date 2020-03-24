@@ -1,2 +1,2 @@
-# Learn-about-Database-Computer-Network
+# Learn-about-Computer-Network
 Lecture Notes for Computer Network
